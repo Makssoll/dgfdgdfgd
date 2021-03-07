@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+header a{
+    background-color: rgb(13, 117, 202);
+    margin: 10px;
+    text-decoration: blink;
+    border-radius: 3px;
+}
+
+.wow{
+     background-color: lightblue;
+    margin: 10px;
+    text-decoration: underline;
+    border-radius: 3px;
+}
+
+.yes{
+    text-decoration: line-through
+}
+
+
+.no{
+    color: red;
+}
+
+
+.get{
+    background-color: rgb(8, 155, 165);
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.ney{
+    background-color: rgb(210, 51, 216);
+    margin: 20px;
+    text-decoration: underline;
+    border-radius: 5px;
+}
+
